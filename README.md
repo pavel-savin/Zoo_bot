@@ -9,10 +9,14 @@
 TOKEN = 'TOKEN'  # Токен бота для доступа к Telegram API
 BOT_USERNAME = "BOT_USERNAME"  # Имя бота в Telegram, используется в функции share_result
 
-FEEDBACK_FORM = "https://forms.gle/aBYyFckEiT5Kffkw9"  # Ссылка на форму обратной связи
+FEEDBACK_FORM = "https://forms.gle/aBYyFckEiT5Kffkw9" # Ссылка на форму обратной связи
+
 EMAIL = "shop@moscowzoo.ru"  # Электронная почта для связи
+
 PHONE = "+7 (499) 254-84-33"  # Телефон для связи
+
 WEBSITE = "https://moscowzoo.siteindev.ru/patronage/"  # Веб-сайт программы опекунства
+
 Основные возможности
 Викторина: Определите своё тотемное животное, отвечая на простые вопросы.
 Информация: Узнайте о программе опекунства Московского зоопарка.
